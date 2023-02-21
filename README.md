@@ -1,7 +1,4 @@
----
----
 
-@import "{{ site.theme }}";
 
 ### Table of Contents
 

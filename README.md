@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 ### Table of Contents
 
 1. [Chat application](https://github.com/HarshT-Argusoft/GitHubPageDemo/new/main#real-time-chatting-application)
